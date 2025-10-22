@@ -1,7 +1,7 @@
 # 🧾 Expense Tracker (Python + SQLite + Charts)
 
 A simple command-line Expense Tracker built using **Python**, **SQLite**, and **Matplotlib**.  
-Now includes both **bar chart** and **pie chart** visualizations to make your spending insights clear and beautiful.
+Includes both **bar chart** and **pie chart** visualizations to make your spending insights clear and beautiful.
 
 ---
 
