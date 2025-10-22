@@ -19,11 +19,12 @@ Includes both **bar chart** and **pie chart** visualizations to make your spendi
 ## 🧩 Tech Stack
 - Python 3
 - SQLite (for database)
-- Matplotlib (for charts)
+- Matplotlib (visualization)
 
 ## 🛠️ Installation
 ```bash
 git clone https://github.com/<your-username>/expense-tracker.git
+pip install -r requirements.txt
 cd expense-tracker
 python main.py
 
